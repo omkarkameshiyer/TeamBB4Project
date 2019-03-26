@@ -21,3 +21,11 @@ git commit -m "edits"
 git push origin
 
 git push origin elise/branching_exercise
+
+=============
+
+Find all branches 
+
+git branch -a
+
+===========
