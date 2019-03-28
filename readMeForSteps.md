@@ -56,4 +56,7 @@ Switched to branch 'master'
 Your branch is up to date with 'origin/master'.
 
 
-=======
+======= IF you want to reset a file follow these steps =====
+
+git checkout filename
+git checkout -- filename
