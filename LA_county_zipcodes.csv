@@ -1,0 +1,283 @@
+zipcode,Classification,City,Population,Timezone,Area Code(s)
+90001,General,Los Angeles,"57,110",Pacific,323
+90002,General,Los Angeles,"51,223",Pacific,323/562
+90003,General,Los Angeles,"66,266",Pacific,323
+90004,General,Los Angeles,"62,180",Pacific,323/213
+90005,General,Los Angeles,"37,681",Pacific,323/213/310/818/626
+90006,General,Los Angeles,"59,185",Pacific,213/323
+90007,General,Los Angeles,"40,920",Pacific,323/213
+90008,General,Los Angeles,"32,327",Pacific,323
+90010,General,Los Angeles,"3,800",Pacific,323/310/818/213/626
+90011,General,Los Angeles,"103,892",Pacific,323
+90012,General,Los Angeles,"31,103",Pacific,323/818
+90013,General,Los Angeles,"11,772",Pacific,213/323/626/818/424/562/310/747
+90014,General,Los Angeles,"7,005",Pacific,213/323/626/424/818/310/562/747
+90015,General,Los Angeles,"18,986",Pacific,213/323/310/626/818/562/424
+90016,General,Los Angeles,"47,596",Pacific,323
+90017,General,Los Angeles,"23,768",Pacific,213/323/626/310/562/818/424
+90018,General,Los Angeles,"49,310",Pacific,323/213
+90019,General,Los Angeles,"64,458",Pacific,323
+90020,General,Los Angeles,"38,967",Pacific,323/310/818/213/626
+90021,General,Los Angeles,"3,951",Pacific,213/323/626/818/424/562/310/747
+90022,General,Los Angeles,"67,179",Pacific,562/323
+90023,General,Los Angeles,"45,903",Pacific,323
+90024,General,Los Angeles,"47,452",Pacific,310/818
+90025,General,Los Angeles,"42,147",Pacific,310/424/818
+90026,General,Los Angeles,"67,869",Pacific,213
+90027,General,Los Angeles,"45,151",Pacific,323/818/213/747
+90028,General,Los Angeles,"28,714",Pacific,323/818/747
+90029,General,Los Angeles,"38,617",Pacific,323/213
+90031,General,Los Angeles,"39,316",Pacific,323
+90032,General,Los Angeles,"45,786",Pacific,626
+90033,General,Los Angeles,"48,852",Pacific,323
+90034,General,Los Angeles,"57,964",Pacific,310/424
+90035,General,Los Angeles,"28,418",Pacific,310/424
+90036,General,Los Angeles,"36,865",Pacific,323
+90037,General,Los Angeles,"62,276",Pacific,323/424/310/213
+90038,General,Los Angeles,"28,917",Pacific,323/818/747
+90039,General,Los Angeles,"28,514",Pacific,818/747
+90040,General,Los Angeles,"12,520",Pacific,562/323
+90041,General,Los Angeles,"27,425",Pacific,323/626
+90042,General,Los Angeles,"62,430",Pacific,323/626
+90043,General,Los Angeles,"44,789",Pacific,323
+90044,General,Los Angeles,"89,779",Pacific,323/310/213
+90045,General,Los Angeles,"39,480",Pacific,323
+90046,General,Los Angeles,"48,581",Pacific,323
+90047,General,Los Angeles,"48,606",Pacific,323
+90048,General,Los Angeles,"21,397",Pacific,323/310
+90049,General,Los Angeles,"35,482",Pacific,818/310
+90056,General,Los Angeles,"7,827",Pacific,323
+90057,General,Los Angeles,"44,998",Pacific,213
+90058,General,Los Angeles,"3,223",Pacific,323
+90059,General,Los Angeles,"40,952",Pacific,310/213
+90061,General,Los Angeles,"26,872",Pacific,310/323/213
+90062,General,Los Angeles,"32,821",Pacific,323
+90063,General,Los Angeles,"55,758",Pacific,323
+90064,General,Los Angeles,"25,403",Pacific,310/818
+90065,General,Los Angeles,"45,527",Pacific,323
+90066,General,Los Angeles,"55,277",Pacific,310/424
+90067,General,Los Angeles,"2,424",Pacific,310
+90068,General,Los Angeles,"22,286",Pacific,323
+90069,General,West Hollywood,"20,483",Pacific,818/323
+90071,General,Los Angeles,15,Pacific,213/323/626/310/818/424/562/747
+90073,P.O. Box,Los Angeles,539,Pacific,310/424/818
+90077,General,Los Angeles,"9,377",Pacific,818/310
+90089,Unique,Los Angeles,"3,217",Pacific,323/213
+90094,General,Playa Vista,"5,464",Pacific,323
+90201,General,Bell Gardens,"101,279",Pacific,323
+90210,General,Beverly Hills,"21,741",Pacific,310/424
+90211,General,Beverly Hills,"8,434",Pacific,310/424
+90212,General,Beverly Hills,"11,555",Pacific,310/424/323
+90220,General,Compton,"49,328",Pacific,310/562/424/323
+90221,General,Compton,"53,704",Pacific,310/562/424/323
+90222,General,Compton,"31,869",Pacific,310/562/424/323
+90230,General,Culver City,"31,766",Pacific,310/424
+90232,General,Culver City,"15,149",Pacific,310/424
+90240,General,Downey,"25,876",Pacific,562
+90241,General,Downey,"42,399",Pacific,562
+90242,General,Downey,"43,497",Pacific,562
+90245,General,El Segundo,"16,654",Pacific,310/424
+90247,General,Gardena,"47,487",Pacific,310/562/424/213/323
+90248,General,Gardena,"9,947",Pacific,310/562/424/213/323
+90249,General,Gardena,"26,669",Pacific,310/562/424/213/323
+90250,General,Hawthorne,"93,193",Pacific,310/424
+90254,General,Hermosa Beach,"19,506",Pacific,424/310
+90255,General,Huntington Park,"75,066",Pacific,323
+90260,General,Lawndale,"34,924",Pacific,424/310
+90262,General,Lynwood,"69,745",Pacific,323
+90263,Unique,Malibu,"1,612",Pacific,310/424
+90265,General,Malibu,"18,116",Pacific,310/424
+90266,General,Manhattan Beach,"35,135",Pacific,310
+90270,General,Maywood,"27,372",Pacific,323
+90272,General,Pacific Palisades,"22,986",Pacific,424
+90274,General,Palos Verdes Peninsula,"25,209",Pacific,310
+90275,General,Rancho Palos Verdes,"41,804",Pacific,310
+90277,General,Redondo Beach,"35,293",Pacific,424/310
+90278,General,Redondo Beach,"40,071",Pacific,424/310
+90280,General,South Gate,"94,396",Pacific,323
+90290,General,Topanga,"6,368",Pacific,424/310
+90291,General,Venice,"28,341",Pacific,310/424
+90292,General,Marina Del Rey,"21,576",Pacific,310/424
+90293,General,Playa Del Rey,"12,132",Pacific,310/424
+90301,General,Inglewood,"36,568",Pacific,310/424
+90302,General,Inglewood,"29,415",Pacific,310
+90303,General,Inglewood,"26,176",Pacific,310
+90304,General,Inglewood,"28,210",Pacific,424/310
+90305,General,Inglewood,"14,853",Pacific,424/310
+90401,General,Santa Monica,"6,722",Pacific,310/424
+90402,General,Santa Monica,"12,250",Pacific,310
+90403,General,Santa Monica,"24,525",Pacific,310/424
+90404,General,Santa Monica,"21,360",Pacific,310/424
+90405,General,Santa Monica,"27,186",Pacific,310/424
+90501,General,Torrance,"43,180",Pacific,310/424
+90502,General,Torrance,"18,010",Pacific,310/424
+90503,General,Torrance,"44,383",Pacific,310/424
+90504,General,Torrance,"32,102",Pacific,310/424
+90505,General,Torrance,"36,678",Pacific,310
+90601,General,Whittier,"31,974",Pacific,562
+90602,General,Whittier,"25,777",Pacific,562
+90603,General,Whittier,"20,063",Pacific,562
+90604,General,Whittier,"39,407",Pacific,562
+90605,General,Whittier,"40,331",Pacific,562
+90606,General,Whittier,"32,396",Pacific,562
+90638,General,La Mirada,"49,012",Pacific,714
+90640,General,Montebello,"62,549",Pacific,323
+90650,General,Norwalk,"105,549",Pacific,562
+90660,General,Pico Rivera,"62,928",Pacific,562
+90670,General,Santa Fe Springs,"14,866",Pacific,562
+90701,General,Artesia,"16,591",Pacific,562
+90703,General,Cerritos,"49,399",Pacific,562
+90704,P.O. Box,Avalon,"4,090",Pacific,310/424/562
+90706,General,Bellflower,"76,615",Pacific,562
+90710,General,Harbor City,"25,457",Pacific,310/424
+90712,General,Lakewood,"31,499",Pacific,562/310/657/323
+90713,General,Lakewood,"27,925",Pacific,562/310/657/323
+90715,General,Lakewood,"20,388",Pacific,562
+90716,General,Hawaiian Gardens,"14,184",Pacific,562
+90717,General,Lomita,"21,318",Pacific,310/424
+90723,General,Paramount,"54,099",Pacific,562
+90731,General,San Pedro,"59,662",Pacific,310/424/562
+90732,General,San Pedro,"21,115",Pacific,310/424/562
+90744,General,Wilmington,"53,815",Pacific,562/310/323/424
+90745,General,Carson,"57,251",Pacific,562
+90746,General,Carson,"25,990",Pacific,562
+90755,General,Signal Hill,"11,074",Pacific,562
+90802,General,Long Beach,"39,347",Pacific,562/310/424/714
+90803,General,Long Beach,"32,031",Pacific,562
+90804,General,Long Beach,"40,311",Pacific,562
+90805,General,Long Beach,"93,524",Pacific,562/310
+90806,General,Long Beach,"42,399",Pacific,562
+90807,General,Long Beach,"31,481",Pacific,562/714
+90808,General,Long Beach,"38,232",Pacific,562/310/657/714
+90810,General,Long Beach,"36,735",Pacific,562
+90813,General,Long Beach,"58,911",Pacific,562/310/714
+90814,General,Long Beach,"19,131",Pacific,562
+90815,General,Long Beach,"39,733",Pacific,562/714
+90822,General,Long Beach,117,Pacific,562/310/714
+91001,General,Altadena,"36,126",Pacific,626
+91006,General,Arcadia,"31,715",Pacific,626
+91007,General,Arcadia,"34,095",Pacific,626
+91008,General,Duarte,"1,391",Pacific,626
+91010,General,Duarte,"26,074",Pacific,626
+91011,General,La Canada Flintridge,"20,280",Pacific,818
+91016,General,Monrovia,"40,598",Pacific,626
+91020,General,Montrose,"8,415",Pacific,818/747
+91024,General,Sierra Madre,"10,917",Pacific,626
+91030,General,South Pasadena,"25,616",Pacific,626/323
+91040,General,Sunland,"20,372",Pacific,818/747
+91042,General,Tujunga,"27,585",Pacific,818/747
+91046,P.O. Box,Verdugo City,156,Pacific,818/747
+91101,General,Pasadena,"20,460",Pacific,626/323
+91103,General,Pasadena,"27,480",Pacific,626/323
+91104,General,Pasadena,"36,751",Pacific,626
+91105,General,Pasadena,"11,254",Pacific,626
+91106,General,Pasadena,"24,229",Pacific,626
+91107,General,Pasadena,"32,940",Pacific,626
+91108,General,San Marino,"13,361",Pacific,626
+91201,General,Glendale,"22,781",Pacific,818/747
+91202,General,Glendale,"22,830",Pacific,818/747
+91203,General,Glendale,"13,220",Pacific,818/747
+91204,General,Glendale,"16,032",Pacific,818/747
+91205,General,Glendale,"37,810",Pacific,818
+91206,General,Glendale,"33,065",Pacific,323/626
+91207,General,Glendale,"10,506",Pacific,818/747
+91208,General,Glendale,"16,245",Pacific,818/747
+91210,General,Glendale,328,Pacific,818/747
+91214,General,La Crescenta,"30,356",Pacific,818/747
+91301,General,Agoura Hills,"25,488",Pacific,818/747
+91302,General,Calabasas,"25,709",Pacific,424/310
+91303,General,Canoga Park,"26,855",Pacific,818/747
+91304,General,Canoga Park,"50,231",Pacific,818/747
+91306,General,Winnetka,"45,061",Pacific,818/747
+91307,General,West Hills,"24,474",Pacific,818
+91311,General,Chatsworth,"36,557",Pacific,818/747
+91316,General,Encino,"26,898",Pacific,818
+91321,General,Newhall,"34,882",Pacific,661
+91324,General,Northridge,"27,669",Pacific,818/747
+91325,General,Northridge,"32,417",Pacific,818/747
+91326,General,Porter Ranch,"33,708",Pacific,818/747
+91330,Unique,Northridge,"2,702",Pacific,818/747
+91331,General,Pacoima,"103,689",Pacific,818/747
+91335,General,Reseda,"74,363",Pacific,818/747
+91340,General,San Fernando,"34,188",Pacific,818/747
+91342,General,Sylmar,"91,725",Pacific,818/747
+91343,General,North Hills,"60,254",Pacific,818/747
+91344,General,Granada Hills,"51,747",Pacific,818/747
+91345,General,Mission Hills,"18,496",Pacific,818/747
+91350,General,Santa Clarita,"33,348",Pacific,661
+91351,General,Canyon Country,"32,362",Pacific,661
+91352,General,Sun Valley,"47,807",Pacific,818/626/213/323/310/747
+91354,General,Valencia,"28,722",Pacific,661
+91355,General,Valencia,"32,605",Pacific,661
+91356,General,Tarzana,"29,458",Pacific,818
+91364,General,Woodland Hills,"25,851",Pacific,818
+91367,General,Woodland Hills,"39,499",Pacific,818
+91381,General,Stevenson Ranch,"20,158",Pacific,661
+91384,General,Castaic,"29,855",Pacific,661/805
+91387,General,Canyon Country,"40,328",Pacific,661
+91390,General,Santa Clarita,"19,786",Pacific,661
+91401,General,Van Nuys,"39,285",Pacific,818
+91402,General,Panorama City,"69,817",Pacific,818
+91403,General,Sherman Oaks,"23,484",Pacific,818/747/323/424
+91405,General,Van Nuys,"51,145",Pacific,818
+91406,General,Van Nuys,"51,558",Pacific,818
+91411,General,Van Nuys,"24,628",Pacific,818/323/747/424
+91423,General,Sherman Oaks,"30,991",Pacific,818/747/323/424
+91436,General,Encino,"14,372",Pacific,818/747
+91501,General,Burbank,"20,849",Pacific,818/747
+91502,General,Burbank,"11,371",Pacific,818/747
+91504,General,Burbank,"24,939",Pacific,818/626/213/323/310
+91505,General,Burbank,"30,778",Pacific,818/626/213/323/310
+91506,General,Burbank,"18,904",Pacific,818/747
+91601,General,North Hollywood,"37,180",Pacific,818/747
+91602,General,North Hollywood,"17,473",Pacific,818/747
+91604,General,Studio City,"29,034",Pacific,747
+91605,General,North Hollywood,"56,343",Pacific,818/323
+91606,General,North Hollywood,"44,958",Pacific,818/747
+91607,General,Valley Village,"27,927",Pacific,818/747
+91702,General,Azusa,"59,705",Pacific,626
+91706,General,Baldwin Park,"76,571",Pacific,626
+91711,General,Claremont,"35,705",Pacific,909
+91722,General,Covina,"34,409",Pacific,626/909
+91723,General,Covina,"18,275",Pacific,626/909
+91724,General,Covina,"26,184",Pacific,626/909
+91731,General,El Monte,"29,591",Pacific,626
+91732,General,El Monte,"61,386",Pacific,626
+91733,General,South El Monte,"43,896",Pacific,626
+91740,General,Glendora,"25,356",Pacific,626
+91741,General,Glendora,"25,824",Pacific,626
+91744,General,La Puente,"85,040",Pacific,626
+91745,General,Hacienda Heights,"54,013",Pacific,626
+91746,General,La Puente,"30,485",Pacific,626
+91748,General,Rowland Heights,"45,406",Pacific,626
+91750,General,La Verne,"33,249",Pacific,909/626
+91754,General,Monterey Park,"32,742",Pacific,818
+91755,General,Monterey Park,"27,496",Pacific,818
+91765,General,Diamond Bar,"46,457",Pacific,909
+91766,General,Pomona,"71,599",Pacific,909/626
+91767,General,Pomona,"48,068",Pacific,909/626
+91768,General,Pomona,"34,537",Pacific,909/626
+91770,General,Rosemead,"62,097",Pacific,626
+91773,General,San Dimas,"33,119",Pacific,909
+91775,General,San Gabriel,"23,988",Pacific,626
+91776,General,San Gabriel,"38,475",Pacific,626
+91780,General,Temple City,"34,332",Pacific,626
+91789,General,Walnut,"43,079",Pacific,909
+91790,General,West Covina,"44,907",Pacific,626
+91791,General,West Covina,"32,414",Pacific,626
+91792,General,West Covina,"30,854",Pacific,626
+91801,General,Alhambra,"52,735",Pacific,626
+91803,General,Alhambra,"30,322",Pacific,626
+93510,General,Acton,"7,993",Pacific,661
+93532,General,Lake Hughes,"2,932",Pacific,661
+93534,General,Lancaster,"39,341",Pacific,661
+93535,General,Lancaster,"72,046",Pacific,661
+93536,General,Lancaster,"70,918",Pacific,661
+93543,General,Littlerock,"13,033",Pacific,661
+93544,General,Llano,"1,259",Pacific,661/760
+93550,General,Palmdale,"74,929",Pacific,661
+93551,General,Palmdale,"50,798",Pacific,661
+93552,General,Palmdale,"38,158",Pacific,661
+93553,General,Pearblossom,"2,138",Pacific,661
+93563,General,Valyermo,388,Pacific,661
+93591,General,Palmdale,"7,285",Pacific,661
