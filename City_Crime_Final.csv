@@ -1,0 +1,143 @@
+Zip Code,# of Incidents,City,Population,County,# of Dispensaries,Incidents per capita
+90001,395,Los Angeles,57110.0,Los Angeles County,3,144.58227848101265
+90002,837,Los Angeles,51223.0,Los Angeles County,0,61.19832735961768
+90003,2953,Los Angeles,66266.0,Los Angeles County,0,22.440230274297324
+90004,1173,Los Angeles,62180.0,Los Angeles County,0,53.009377664109124
+90005,940,Los Angeles,37681.0,Los Angeles County,0,40.08617021276596
+90006,917,Los Angeles,59185.0,Los Angeles County,0,64.54198473282443
+90007,1604,Los Angeles,40920.0,Los Angeles County,1,25.51122194513716
+90008,736,Los Angeles,32327.0,Los Angeles County,1,43.922554347826086
+90010,874,Los Angeles,3800.0,Los Angeles County,0,4.3478260869565215
+90011,2087,Los Angeles,103892.0,Los Angeles County,0,49.780546238620026
+90012,1008,Los Angeles,31103.0,Los Angeles County,1,30.856150793650794
+90013,2157,Los Angeles,11772.0,Los Angeles County,0,5.457579972183589
+90014,5200,Los Angeles,7005.0,Los Angeles County,1,1.3471153846153847
+90015,1249,Los Angeles,18986.0,Los Angeles County,2,15.200960768614891
+90016,865,Los Angeles,47596.0,Los Angeles County,3,55.0242774566474
+90017,1264,Los Angeles,23768.0,Los Angeles County,0,18.803797468354432
+90018,1638,Los Angeles,49310.0,Los Angeles County,1,30.103785103785103
+90019,800,Los Angeles,64458.0,Los Angeles County,4,80.5725
+90020,384,Los Angeles,38967.0,Los Angeles County,0,101.4765625
+90021,1645,Los Angeles,3951.0,Los Angeles County,9,2.401823708206687
+90023,689,Los Angeles,45903.0,Los Angeles County,4,66.62264150943396
+90024,95,Los Angeles,47452.0,Los Angeles County,3,499.4947368421053
+90025,886,Los Angeles,42147.0,Los Angeles County,1,47.56997742663657
+90026,760,Los Angeles,67869.0,Los Angeles County,1,89.30131578947369
+90027,41,Los Angeles,45151.0,Los Angeles County,1,1101.2439024390244
+90028,6439,Los Angeles,28714.0,Los Angeles County,1,4.459388103742818
+90029,1497,Los Angeles,38617.0,Los Angeles County,3,25.79625918503674
+90031,1001,Los Angeles,39316.0,Los Angeles County,0,39.276723276723274
+90032,568,Los Angeles,45786.0,Los Angeles County,1,80.60915492957747
+90033,1343,Los Angeles,48852.0,Los Angeles County,1,36.3752792256143
+90034,510,Los Angeles,57964.0,Los Angeles County,1,113.65490196078431
+90035,225,Los Angeles,28418.0,Los Angeles County,0,126.30222222222223
+90036,629,Los Angeles,36865.0,Los Angeles County,2,58.608903020667725
+90037,3195,Los Angeles,62276.0,Los Angeles County,1,19.49170579029734
+90038,1900,Los Angeles,28917.0,Los Angeles County,3,15.219473684210527
+90039,242,Los Angeles,28514.0,Los Angeles County,2,117.82644628099173
+90041,497,Los Angeles,27425.0,Los Angeles County,1,55.181086519114686
+90042,702,Los Angeles,62430.0,Los Angeles County,1,88.93162393162393
+90043,459,Los Angeles,44789.0,Los Angeles County,0,97.57952069716775
+90044,1244,Los Angeles,89779.0,Los Angeles County,0,72.16961414790997
+90045,1409,Los Angeles,39480.0,Los Angeles County,3,28.01987224982257
+90046,173,Los Angeles,48581.0,Los Angeles County,8,280.8150289017341
+90047,439,Los Angeles,48606.0,Los Angeles County,2,110.71981776765377
+90048,313,Los Angeles,21397.0,Los Angeles County,6,68.36102236421725
+90049,34,Los Angeles,35482.0,Los Angeles County,0,1043.5882352941176
+90056,69,Los Angeles,7827.0,Los Angeles County,0,113.43478260869566
+90057,5244,Los Angeles,44998.0,Los Angeles County,1,8.580854309687261
+90058,1,Los Angeles,3223.0,Los Angeles County,2,3223.0
+90059,336,Los Angeles,40952.0,Los Angeles County,0,121.88095238095238
+90061,634,Los Angeles,26872.0,Los Angeles County,0,42.38485804416404
+90062,2138,Los Angeles,32821.0,Los Angeles County,0,15.351262862488307
+90063,209,Los Angeles,55758.0,Los Angeles County,0,266.78468899521533
+90064,736,Los Angeles,25403.0,Los Angeles County,4,34.514945652173914
+90065,304,Los Angeles,45527.0,Los Angeles County,0,149.75986842105263
+90066,448,Los Angeles,55277.0,Los Angeles County,1,123.38616071428571
+90067,95,Los Angeles,2424.0,Los Angeles County,0,25.51578947368421
+90068,65,Los Angeles,22286.0,Los Angeles County,2,342.8615384615385
+90069,81,West Hollywood,20483.0,Los Angeles County,5,252.87654320987653
+90071,536,Los Angeles,15.0,Los Angeles County,0,0.027985074626865673
+90077,34,Los Angeles,9377.0,Los Angeles County,0,275.79411764705884
+90079,394,Los Angeles,0.0,Los Angeles County,0,0.0
+90094,201,Playa Vista,5464.0,Los Angeles County,0,27.18407960199005
+90210,11,Beverly Hills,21741.0,Los Angeles County,0,1976.4545454545455
+90211,94,Beverly Hills,8434.0,Los Angeles County,0,89.72340425531915
+90212,8,Beverly Hills,11555.0,Los Angeles County,0,1444.375
+90230,126,Culver City,31766.0,Los Angeles County,0,252.11111111111111
+90232,44,Culver City,15149.0,Los Angeles County,0,344.29545454545456
+90245,38,El Segundo,16654.0,Los Angeles County,0,438.2631578947368
+90247,67,Gardena,47487.0,Los Angeles County,0,708.7611940298508
+90248,126,Gardena,9947.0,Los Angeles County,1,78.94444444444444
+90254,1,Hermosa Beach,19506.0,Los Angeles County,0,19506.0
+90266,1,Manhattan Beach,35135.0,Los Angeles County,0,35135.0
+90272,36,Pacific Palisades,22986.0,Los Angeles County,0,638.5
+90291,2678,Venice,28341.0,Los Angeles County,5,10.582897684839432
+90292,163,Marina Del Rey,21576.0,Los Angeles County,2,132.3680981595092
+90293,121,Playa Del Rey,12132.0,Los Angeles County,1,100.26446280991736
+90301,78,Inglewood,36568.0,Los Angeles County,0,468.8205128205128
+90302,10,Inglewood,29415.0,Los Angeles County,0,2941.5
+90304,157,Inglewood,28210.0,Los Angeles County,0,179.6815286624204
+90305,300,Inglewood,14853.0,Los Angeles County,0,49.51
+90402,67,Santa Monica,12250.0,Los Angeles County,0,182.83582089552237
+90404,341,Santa Monica,21360.0,Los Angeles County,0,62.639296187683286
+90405,575,Santa Monica,27186.0,Los Angeles County,0,47.28
+90501,178,Torrance,43180.0,Los Angeles County,2,242.58426966292134
+90502,15,Torrance,18010.0,Los Angeles County,0,1200.6666666666667
+90710,314,Harbor City,25457.0,Los Angeles County,1,81.0732484076433
+90717,55,Lomita,21318.0,Los Angeles County,1,387.6
+90731,1211,San Pedro,59662.0,Los Angeles County,0,49.26672171758877
+90732,304,San Pedro,21115.0,Los Angeles County,0,69.45723684210526
+90744,1208,Wilmington,53815.0,Los Angeles County,1,44.54884105960265
+90804,2,Long Beach,40311.0,Los Angeles County,3,20155.5
+90813,3,Long Beach,58911.0,Los Angeles County,2,19637.0
+90822,413,Long Beach,117.0,Los Angeles County,0,0.28329297820823246
+91030,60,South Pasadena,25616.0,Los Angeles County,0,426.93333333333334
+91040,295,Sunland,20372.0,Los Angeles County,0,69.05762711864406
+91103,2,Pasadena,27480.0,Los Angeles County,0,13740.0
+91201,13,Glendale,22781.0,Los Angeles County,1,1752.3846153846155
+91203,5,Glendale,13220.0,Los Angeles County,0,2644.0
+91204,103,Glendale,16032.0,Los Angeles County,0,155.6504854368932
+91205,89,Glendale,37810.0,Los Angeles County,0,424.8314606741573
+91206,5,Glendale,33065.0,Los Angeles County,0,6613.0
+91214,60,La Crescenta,30356.0,Los Angeles County,0,505.93333333333334
+91303,1354,Canoga Park,26855.0,Los Angeles County,3,19.833825701624814
+91304,301,Canoga Park,50231.0,Los Angeles County,0,166.88039867109634
+91306,859,Winnetka,45061.0,Los Angeles County,0,52.457508731082655
+91307,19,West Hills,24474.0,Los Angeles County,0,1288.1052631578948
+91311,38,Chatsworth,36557.0,Los Angeles County,4,962.0263157894736
+91316,285,Encino,26898.0,Los Angeles County,1,94.37894736842105
+91321,1,Newhall,34882.0,Los Angeles County,0,34882.0
+91324,966,Northridge,27669.0,Los Angeles County,1,28.642857142857142
+91325,624,Northridge,32417.0,Los Angeles County,0,51.95032051282051
+91326,512,Porter Ranch,33708.0,Los Angeles County,0,65.8359375
+91331,1361,Pacoima,103689.0,Los Angeles County,2,76.18589272593681
+91335,1358,Reseda,74363.0,Los Angeles County,1,54.75920471281296
+91340,836,San Fernando,34188.0,Los Angeles County,0,40.89473684210526
+91342,326,Sylmar,91725.0,Los Angeles County,3,281.36503067484665
+91343,1417,North Hills,60254.0,Los Angeles County,2,42.52223006351447
+91344,528,Granada Hills,51747.0,Los Angeles County,0,98.00568181818181
+91345,701,Mission Hills,18496.0,Los Angeles County,2,26.385164051355208
+91352,214,Sun Valley,47807.0,Los Angeles County,5,223.39719626168224
+91356,585,Tarzana,29458.0,Los Angeles County,1,50.355555555555554
+91364,156,Woodland Hills,25851.0,Los Angeles County,4,165.71153846153845
+91367,562,Woodland Hills,39499.0,Los Angeles County,3,70.2829181494662
+91401,679,Van Nuys,39285.0,Los Angeles County,0,57.857142857142854
+91402,1289,Panorama City,69817.0,Los Angeles County,0,54.16369278510473
+91403,447,Sherman Oaks,23484.0,Los Angeles County,2,52.53691275167785
+91405,2332,Van Nuys,51145.0,Los Angeles County,3,21.931818181818183
+91406,874,Van Nuys,51558.0,Los Angeles County,3,58.9908466819222
+91411,2653,Van Nuys,24628.0,Los Angeles County,1,9.283075763286845
+91423,416,Sherman Oaks,30991.0,Los Angeles County,1,74.49759615384616
+91436,123,Encino,14372.0,Los Angeles County,0,116.84552845528455
+91501,1,Burbank,20849.0,Los Angeles County,0,20849.0
+91504,52,Burbank,24939.0,Los Angeles County,0,479.59615384615387
+91505,71,Burbank,30778.0,Los Angeles County,0,433.49295774647885
+91506,4,Burbank,18904.0,Los Angeles County,0,4726.0
+91601,1154,North Hollywood,37180.0,Los Angeles County,6,32.21837088388215
+91602,525,North Hollywood,17473.0,Los Angeles County,3,33.28190476190476
+91604,220,Studio City,29034.0,Los Angeles County,7,131.97272727272727
+91605,1457,North Hollywood,56343.0,Los Angeles County,1,38.67055593685655
+91606,1479,North Hollywood,44958.0,Los Angeles County,1,30.397565922920894
+91607,429,Valley Village,27927.0,Los Angeles County,1,65.0979020979021
+91608,196,Universal City,0.0,Los Angeles County,0,0.0
